@@ -44,7 +44,7 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: Back to main Pages.
+    - title: Back to main page
       href: https://chitang.dev
 
 # Upptime also supports notifications, assigning issues, and more

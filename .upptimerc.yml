@@ -45,7 +45,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "Chi\_Tang's Upptime"
+  introTitle: "[@chitang233](https://chitang.dev)'s Upptime"
   introMessage: nothing here
   navbar:
     - title: Status

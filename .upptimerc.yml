@@ -7,6 +7,8 @@ sites:
     url: https://blog.chitang.dev
   - name: Vaultwarden
     url: https://vaultwarden.chitang.dev
+  - name: SearXNG
+    url: https://searxng.chitang.dev
   - name: Azure HK
     check: "tcp-ping"
     url: server.chitang.dev
@@ -27,6 +29,10 @@ sites:
     check: "tcp-ping"
     url: do-sgp.chitang.eu.org
     port: 22
+  - name: ZeroCloud Turkey NAT
+    check: "tcp-ping"
+    url: 185.219.134.99
+    port: 1022
   - name: VirMach US
     check: "tcp-ping"
     url: virmach-1.chitang.eu.org

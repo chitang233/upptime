@@ -7,8 +7,6 @@ sites:
     url: https://blog.chitang.dev
   - name: Vaultwarden
     url: https://vaultwarden.chitang.dev
-  - name: SearXNG
-    url: https://searxng.chitang.dev
   - name: Azure HK
     check: "tcp-ping"
     url: server.chitang.dev

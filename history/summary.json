@@ -130,19 +130,19 @@
     "url": "185.219.134.99",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "zero-cloud-turkey-nat",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 167,
-    "timeDay": 185,
-    "timeWeek": 167,
-    "timeMonth": 167,
-    "timeYear": 167,
+    "status": "up",
+    "uptime": "96.62%",
+    "uptimeDay": "82.42%",
+    "uptimeWeek": "96.62%",
+    "uptimeMonth": "96.62%",
+    "uptimeYear": "96.62%",
+    "time": 163,
+    "timeDay": 153,
+    "timeWeek": 163,
+    "timeMonth": 163,
+    "timeYear": 163,
     "dailyMinutesDown": {
-      "2023-02-16": 0
+      "2023-02-16": 253
     }
   },
   {

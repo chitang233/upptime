@@ -14,7 +14,7 @@ sites:
   - name: Azure SG
     check: "tcp-ping"
     url: azure-sgp.chitang.eu.org
-    port: 22
+    port: 3389
   - name: DigitalOcean US 1c2g
     check: "tcp-ping"
     url: do-sfo.chitang.eu.org

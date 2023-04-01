@@ -19,10 +19,6 @@ sites:
     check: "tcp-ping"
     url: do-sfo.chitang.eu.org
     port: 22
-  - name: DigitalOcean US 4c8g
-    check: "tcp-ping"
-    url: do-main.chitang.eu.org
-    port: 22
   - name: DigitalOcean SG
     check: "tcp-ping"
     url: do-sgp.chitang.eu.org

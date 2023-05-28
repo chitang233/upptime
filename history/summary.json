@@ -4,10 +4,10 @@
     "url": "https://blog.chitang.dev",
     "icon": "https://icons.duckduckgo.com/ip3/blog.chitang.dev.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 443,
@@ -15,7 +15,9 @@
     "timeWeek": 414,
     "timeMonth": 385,
     "timeYear": 443,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-28": 1
+    }
   },
   {
     "name": "Vaultwarden",
@@ -63,18 +65,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "azure-sg",
     "status": "down",
-    "uptime": "85.97%",
+    "uptime": "85.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "51.14%",
-    "uptimeYear": "85.97%",
+    "uptimeMonth": "49.25%",
+    "uptimeYear": "85.53%",
     "time": 315,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 318,
     "timeYear": 315,
     "dailyMinutesDown": {
-      "2023-05-28": 41,
+      "2023-05-28": 870,
       "2023-05-27": 1440,
       "2023-05-26": 1440,
       "2023-05-25": 1440,

@@ -11,10 +11,6 @@ sites:
     check: "tcp-ping"
     url: server.chitang.dev
     port: 22
-  - name: Azure SG
-    check: "tcp-ping"
-    url: azure-sgp.chitang.eu.org
-    port: 3389
   - name: DigitalOcean US 1c2g
     check: "tcp-ping"
     url: do-sfo.chitang.eu.org
@@ -23,10 +19,6 @@ sites:
     check: "tcp-ping"
     url: do-sgp.chitang.eu.org
     port: 22
-  - name: ZeroCloud Turkey NAT
-    check: "tcp-ping"
-    url: 185.219.134.99
-    port: 1022
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -40,8 +32,6 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: Check All Servers
-      href: https://status.chitang.dev
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

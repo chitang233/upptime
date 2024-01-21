@@ -65,9 +65,9 @@
     "url": "do-sfo.chitang.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "digital-ocean-us-1c2g",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -76,16 +76,18 @@
     "timeWeek": 54,
     "timeMonth": 39,
     "timeYear": 112,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-21": 0
+    }
   },
   {
     "name": "DigitalOcean SG",
     "url": "do-sgp.chitang.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "digital-ocean-sg",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -94,6 +96,8 @@
     "timeWeek": 217,
     "timeMonth": 204,
     "timeYear": 249,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-21": 0
+    }
   }
 ]

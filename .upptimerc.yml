@@ -11,14 +11,6 @@ sites:
     check: "tcp-ping"
     url: server.chitang.dev
     port: 22
-  - name: DigitalOcean US 1c2g
-    check: "tcp-ping"
-    url: do-sfo.chitang.eu.org
-    port: 22
-  - name: DigitalOcean SG
-    check: "tcp-ping"
-    url: do-sgp.chitang.eu.org
-    port: 22
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

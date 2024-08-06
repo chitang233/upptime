@@ -25,19 +25,19 @@
     "url": "https://vaultwarden.chitang.dev",
     "icon": "https://icons.duckduckgo.com/ip3/vaultwarden.chitang.dev.ico",
     "slug": "vaultwarden",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 628,
-    "timeDay": 675,
-    "timeWeek": 726,
-    "timeMonth": 671,
-    "timeYear": 616,
+    "time": 627,
+    "timeDay": 613,
+    "timeWeek": 704,
+    "timeMonth": 667,
+    "timeYear": 615,
     "dailyMinutesDown": {
-      "2024-08-06": 0
+      "2024-08-06": 1
     }
   },
   {

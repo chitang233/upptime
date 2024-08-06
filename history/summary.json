@@ -25,18 +25,20 @@
     "url": "https://vaultwarden.chitang.dev",
     "icon": "https://icons.duckduckgo.com/ip3/vaultwarden.chitang.dev.ico",
     "slug": "vaultwarden",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 680,
+    "time": 628,
     "timeDay": 675,
     "timeWeek": 726,
     "timeMonth": 671,
     "timeYear": 616,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-06": 0
+    }
   },
   {
     "name": "Azure HK",

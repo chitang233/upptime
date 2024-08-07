@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 213,
-    "timeDay": 184,
-    "timeWeek": 200,
-    "timeMonth": 190,
+    "timeDay": 283,
+    "timeWeek": 205,
+    "timeMonth": 196,
     "timeYear": 168,
     "dailyMinutesDown": {
       "2024-01-17": 19,
@@ -27,18 +27,16 @@
     "slug": "vaultwarden",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 627,
-    "timeDay": 613,
-    "timeWeek": 704,
-    "timeMonth": 667,
+    "timeDay": 594,
+    "timeWeek": 692,
+    "timeMonth": 666,
     "timeYear": 615,
-    "dailyMinutesDown": {
-      "2024-08-06": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Azure HK",
@@ -52,9 +50,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 199,
-    "timeDay": 203,
-    "timeWeek": 204,
-    "timeMonth": 191,
+    "timeDay": 153,
+    "timeWeek": 199,
+    "timeMonth": 189,
     "timeYear": 193,
     "dailyMinutesDown": {}
   }

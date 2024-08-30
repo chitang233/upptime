@@ -4,18 +4,19 @@
     "url": "https://blog.chitang.dev",
     "icon": "https://icons.duckduckgo.com/ip3/blog.chitang.dev.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 205,
+    "time": 204,
     "timeDay": 188,
     "timeWeek": 181,
     "timeMonth": 186,
     "timeYear": 169,
     "dailyMinutesDown": {
+      "2024-08-30": 0,
       "2024-01-17": 19
     }
   },

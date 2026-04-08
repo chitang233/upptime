@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/vw.chitang.dev.ico",
     "slug": "vaultwarden",
     "status": "up",
-    "uptime": "99.73%",
+    "uptime": "99.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 618,
-    "timeDay": 1034,
-    "timeWeek": 900,
+    "timeDay": 955,
+    "timeWeek": 912,
     "timeMonth": 905,
-    "timeYear": 627,
+    "timeYear": 628,
     "dailyMinutesDown": {
       "2025-11-16": 31
     }
